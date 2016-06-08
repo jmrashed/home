@@ -1,0 +1,54 @@
+h1.title{
+text-shadow: 1px 2px red;
+color: #FF5733;
+font-size: 32pt;
+}
+
+
+
+
+h2.title{
+text-shadow: 1px 2px red;
+color: green;
+font-size: 24pt;
+}
+
+
+
+
+h3.title{
+text-shadow: 1px 2px #C2C1C1;
+color: black;
+font-size: 16pt;
+}
+
+
+
+h1.title{
+text-shadow: 1px 2px red;
+color: #FF5733;
+font-size: 32pt;
+}
+
+
+
+
+h1.title{
+text-shadow: 1px 2px red;
+color: #FF5733;
+font-size: 32pt;
+}
+
+
+
+div.footer{
+	background-color: #63B1FE ;
+	color: white;
+	height: 60px;
+	 border: 2px solid;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+	text-align:center;
+	font-size: 16pt;
+}
+
